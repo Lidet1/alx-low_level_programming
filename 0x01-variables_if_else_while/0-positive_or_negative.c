@@ -1,4 +1,3 @@
-@@ -8,23 +8,24 @@
  */
 int main(void)
 {
@@ -19,4 +18,6 @@ int main(void)
 		printf("%d is %s\n", n, "zero");
 	}
 	return (0);
+
+}
 
